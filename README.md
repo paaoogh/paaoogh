@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @paaoogh
+- 👀 I’m interested in Artificial Intelligence, mostly focusing on Natural Language Processing, Machine Learning and Deep Learning
+- 🌱 I’m currently learning non linear optimizacion, evolutionary computing and other DL applications
+- 📫 Send me an email to: paaoogh@gmail.com to get in contact for colaboration!
