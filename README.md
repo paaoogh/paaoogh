@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @paaoogh
 - 👀 I’m interested in AI, mostly focusing on Natural Language Processing, society, data justice, Machine Learning and Deep Learning.
-- 🌱 I’m currently learning Lineal Programming, Information Security and other cool math stuff with networks and graphs.
+- 🌱 I’m currently working on my dissertation project.
 - 📫 Send me an email to: paaoogh@gmail.com or pgonzalez_morelia@comunidad.unam.mx to get in contact for colaboration!
